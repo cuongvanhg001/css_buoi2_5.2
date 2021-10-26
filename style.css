@@ -1,0 +1,81 @@
+		#tong{
+			width: 100%;
+			height: 700px;
+			/*background: pink;*/
+		}
+		#san_ho_trai{
+			width: 25%;
+			height: 100%;
+			background: black;
+			float: left;
+			position: relative;
+		}
+		#vien{
+			width: 5%;
+			height: 100%;
+			float: left;
+			background-image: url('IMAGES/soc.jpg');
+			background-repeat: no-repeat;
+			background-position: center;
+			background-size: cover;
+		}
+		#sua{
+			width: 70%;
+			height: 100%;
+			float: left;
+			background-image: url('IMAGES/sua1.gif');
+			background-repeat: no-repeat;
+			background-position: center;
+		}
+		#sua >.strai{
+			width: 70%;
+			height: 100%;
+			float: left;
+		}
+		#sua >.strai >.sttren{
+			width: 100%;
+			height: 10%;;
+		}
+		#sua >.strai >.stduoi{
+			width: 100%;
+			height: 90%;
+			position: relative;
+			text-align: center;
+		}
+		#sua >.strai >.stduoi >.stdtrai{
+			width: 10%;
+			height: 100%;
+			float: left;
+		}
+		#sua >.strai >.stduoi >.stdgiua{
+			width: 80%;
+			height: 100%;
+			float: left;
+		}
+		#sua >.strai >.stduoi >.stdgiua >.tren{
+			width: 100%;
+			height: 10%;
+			text-align: left;
+
+		}
+		#sua >.strai >.stduoi >.stdgiua >.duoi{
+			width: 100%;
+			height: 80%;
+			background: lightseagreen;
+			position: relative;
+			text-align: center;
+		}
+		#sua >.strai >.stduoi >.stdphai{
+			width: 10%;
+			height: 100%;
+			position: relative;
+			text-align: center;
+			float: left;
+		}
+
+		#sua >.sphai{
+			position: absolute;
+    		top: 0px;
+    		right: 0px;
+    		width: 200px;
+		}
